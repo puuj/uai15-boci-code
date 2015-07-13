@@ -1,6 +1,6 @@
 #!/bin/bash
 
-DATAURL=http://linqs.cs.umd.edu/datasets/pujara-uai15-psl-1.3.1-SNAPSHOT-jars.tgz
+DATAURL=http://linqs.cs.umd.edu/datasets/pujara-uai15/psl-1.3.1-SNAPSHOT-jars.tgz
 LOCALFILE=jars.tgz
 CURL=`which curl`
 WGET=`which wget`
