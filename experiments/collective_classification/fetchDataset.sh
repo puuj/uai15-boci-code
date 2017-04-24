@@ -1,6 +1,6 @@
 #!/bin/bash
 
-DATAURL=http://linqs.cs.umd.edu/datasets/pujara-uai15/data-cc.tgz
+DATAURL=https://linqs-data.soe.ucsc.edu/public/pujara_uai15/data-cc.tgz
 CURL=`which curl`
 WGET=`which wget`
 TAR=`which tar`
